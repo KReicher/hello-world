@@ -1,2 +1,4 @@
 # hello-world
-Learning repository
+Learning repository - inline changes
+
+Learning more and more...
